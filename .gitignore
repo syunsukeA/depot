@@ -35,3 +35,9 @@
 
 /app/assets/builds/*
 !/app/assets/builds/.keep
+
+# OS metadata
+.DS_Store
+
+# Editor swap files
+*.swp
